@@ -37,6 +37,7 @@ Predicted Price: 8500.0 | Actual Price: 9000.0
 Predicted Price: 12000.0 | Actual Price: 11500.0
 ...
 ### 📁 Project Structure
+
 ├── car_price_prediction.csv     # Dataset
 ├── Car_Price_Prediction.py      # (Optional) Code to train and save the model and runs predictions
 ├── model.pickle                 # Saved trained model
